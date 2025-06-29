@@ -1,0 +1,10 @@
+transformers
+spacy
+langchain
+streamlit
+scikit-learn
+beautifulsoup4
+pandas
+selenium
+webdriver-manager
+requests

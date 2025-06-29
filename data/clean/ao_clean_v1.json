@@ -1,0 +1,20 @@
+[
+  {
+    "titre": "Fourniture de matériel informatique pour une collectivité",
+    "objectifs": "Objet : ",
+    "prestations": "Les prestations incluent la livraison d’ordinateurs portables, d’écrans, de logiciels bureautiques. Les critères de sélection sont : prix, délai de livraison, garantie. ",
+    "contraintes": ""
+  },
+  {
+    "titre": "Travaux de rénovation énergétique",
+    "objectifs": "Objet : ",
+    "prestations": "",
+    "contraintes": "Contraintes : respect des normes RT2020, intervention hors période scolaire. Critères : méthodologie proposée, expérience, coût. "
+  },
+  {
+    "titre": "Maintenance du réseau informatique",
+    "objectifs": "",
+    "prestations": "",
+    "contraintes": "Critères : réactivité, prix, expérience. "
+  }
+]
