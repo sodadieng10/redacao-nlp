@@ -1,20 +1,182 @@
 [
   {
-    "titre": "Fourniture de matériel informatique pour une collectivité",
-    "objectifs": "Objet : ",
-    "prestations": "Les prestations incluent la livraison d’ordinateurs portables, d’écrans, de logiciels bureautiques. Les critères de sélection sont : prix, délai de livraison, garantie. ",
-    "contraintes": ""
+    "id": "24-123456",
+    "url": "https://www.boamp.fr/avis/detail/24-123456",
+    "metadata": {
+      "source": "BOAMP",
+      "year": 2024,
+      "type": "AAPC",
+      "lang": "fr",
+      "domain": "non précisé"
+    },
+    "structure": {
+      "title": "Acquisition de matériels informatiques pour la mairie de Lyon",
+      "objectif": "À définir",
+      "prestations_attendues": "À compléter",
+      "criteres_selection": "À déterminer",
+      "description_complete": "Ce marché a pour objet la fourniture de postes de travail, d'écrans, d'imprimantes et de périphériques pour les services municipaux."
+    }
   },
   {
-    "titre": "Travaux de rénovation énergétique",
-    "objectifs": "Objet : ",
-    "prestations": "",
-    "contraintes": "Contraintes : respect des normes RT2020, intervention hors période scolaire. Critères : méthodologie proposée, expérience, coût. "
+    "id": "24-123457",
+    "url": "https://www.boamp.fr/avis/detail/24-123457",
+    "metadata": {
+      "source": "BOAMP",
+      "year": 2024,
+      "type": "AAPC",
+      "lang": "fr",
+      "domain": "non précisé"
+    },
+    "structure": {
+      "title": "Travaux de rénovation énergétique d’un groupe scolaire",
+      "objectif": "À définir",
+      "prestations_attendues": "À compléter",
+      "criteres_selection": "À déterminer",
+      "description_complete": "Travaux portant sur l'isolation thermique, le remplacement des menuiseries et la mise en conformité électrique."
+    }
   },
   {
-    "titre": "Maintenance du réseau informatique",
-    "objectifs": "",
-    "prestations": "",
-    "contraintes": "Critères : réactivité, prix, expérience. "
+    "id": "24-123458",
+    "url": "https://www.boamp.fr/avis/detail/24-123458",
+    "metadata": {
+      "source": "BOAMP",
+      "year": 2024,
+      "type": "AAPC",
+      "lang": "fr",
+      "domain": "non précisé"
+    },
+    "structure": {
+      "title": "Prestations de nettoyage pour les bâtiments municipaux",
+      "objectif": "À définir",
+      "prestations_attendues": "À compléter",
+      "criteres_selection": "À déterminer",
+      "description_complete": "Nettoyage quotidien et périodique de divers bâtiments communaux, incluant produits et matériels."
+    }
+  },
+  {
+    "id": "24-123459",
+    "url": "https://www.boamp.fr/avis/detail/24-123459",
+    "metadata": {
+      "source": "BOAMP",
+      "year": 2024,
+      "type": "AAPC",
+      "lang": "fr",
+      "domain": "non précisé"
+    },
+    "structure": {
+      "title": "Maintenance du parc informatique de la ville de Nantes",
+      "objectif": "À définir",
+      "prestations_attendues": "À compléter",
+      "criteres_selection": "À déterminer",
+      "description_complete": "Maintenance corrective et préventive de serveurs, postes, logiciels et réseaux internes."
+    }
+  },
+  {
+    "id": "24-123460",
+    "url": "https://www.boamp.fr/avis/detail/24-123460",
+    "metadata": {
+      "source": "BOAMP",
+      "year": 2024,
+      "type": "AAPC",
+      "lang": "fr",
+      "domain": "non précisé"
+    },
+    "structure": {
+      "title": "Fourniture de mobilier scolaire pour collèges",
+      "objectif": "À définir",
+      "prestations_attendues": "À compléter",
+      "criteres_selection": "À déterminer",
+      "description_complete": "Ce marché concerne la livraison et le montage de bureaux, chaises, armoires et rangements."
+    }
+  },
+  {
+    "id": "24-123461",
+    "url": "https://www.boamp.fr/avis/detail/24-123461",
+    "metadata": {
+      "source": "BOAMP",
+      "year": 2024,
+      "type": "AAPC",
+      "lang": "fr",
+      "domain": "non précisé"
+    },
+    "structure": {
+      "title": "Externalisation de la paie et des RH pour un établissement public",
+      "objectif": "À définir",
+      "prestations_attendues": "À compléter",
+      "criteres_selection": "À déterminer",
+      "description_complete": "Prestation complète de traitement de la paie, gestion des congés et support RH pour 300 agents."
+    }
+  },
+  {
+    "id": "24-123462",
+    "url": "https://www.boamp.fr/avis/detail/24-123462",
+    "metadata": {
+      "source": "BOAMP",
+      "year": 2024,
+      "type": "AAPC",
+      "lang": "fr",
+      "domain": "non précisé"
+    },
+    "structure": {
+      "title": "Création d’une application mobile citoyenne",
+      "objectif": "À définir",
+      "prestations_attendues": "À compléter",
+      "criteres_selection": "À déterminer",
+      "description_complete": "Conception, développement et maintenance d’une app pour signaler des incidents et accéder aux services municipaux."
+    }
+  },
+  {
+    "id": "24-123463",
+    "url": "https://www.boamp.fr/avis/detail/24-123463",
+    "metadata": {
+      "source": "BOAMP",
+      "year": 2024,
+      "type": "AAPC",
+      "lang": "fr",
+      "domain": "non précisé"
+    },
+    "structure": {
+      "title": "Assistance à maîtrise d’ouvrage pour la construction d’un centre culturel",
+      "objectif": "À définir",
+      "prestations_attendues": "À compléter",
+      "criteres_selection": "À déterminer",
+      "description_complete": "AMO en phase conception et exécution pour un centre culturel de 3 000 m²."
+    }
+  },
+  {
+    "id": "24-123464",
+    "url": "https://www.boamp.fr/avis/detail/24-123464",
+    "metadata": {
+      "source": "BOAMP",
+      "year": 2024,
+      "type": "AAPC",
+      "lang": "fr",
+      "domain": "non précisé"
+    },
+    "structure": {
+      "title": "Marché de restauration collective pour les écoles publiques",
+      "objectif": "À définir",
+      "prestations_attendues": "À compléter",
+      "criteres_selection": "À déterminer",
+      "description_complete": "Production et livraison de repas scolaires équilibrés selon les normes en vigueur."
+    }
+  },
+  {
+    "id": "24-123465",
+    "url": "https://www.boamp.fr/avis/detail/24-123465",
+    "metadata": {
+      "source": "BOAMP",
+      "year": 2024,
+      "type": "AAPC",
+      "lang": "fr",
+      "domain": "non précisé"
+    },
+    "structure": {
+      "title": "Installation de bornes de recharge pour véhicules électriques",
+      "objectif": "À définir",
+      "prestations_attendues": "À compléter",
+      "criteres_selection": "À déterminer",
+      "description_complete": "Fourniture, installation et maintenance de bornes publiques de recharge rapide."
+    }
   }
 ]
